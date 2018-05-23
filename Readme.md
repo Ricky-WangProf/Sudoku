@@ -1,8 +1,8 @@
 # Sudoku project  
-## It can generate different level of sudoku and provide solution to the generated sudoku.  
+## This project can generate different level of sudoku and provide solution to the generated sudoku.  
 ### You can run it by using MyEclipse, netbean or visual studio code (if you have java extension set up)  
   
-There are four Classes stup for this project:  
+There are four Classes setup for this project:  
   -Display Class   
    -Display Class is used for generating the UI, This class has a nested class called Button, it is used for generating all the button used in the game. (INIT, EASY, MEDIUM, HARD)   
   -Button Class (nested class inside Display Class)   
