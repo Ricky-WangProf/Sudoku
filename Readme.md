@@ -1,5 +1,6 @@
 # Sudoku project  
 ## It can generate different level of sudoku and provide solution to the generated sudoku.  
+### You can run it by using MyEclipse, netbean or visual studio code (if you have java extension set up)  
   
 There are four Classes stup for this project:  
   -Display Class   
