@@ -11,4 +11,6 @@ There are four Classes stup for this project:
   -FinalGUI Class  
    -FinalGUI Class is the main class to display the application.  
    
+   ![](https://github.com/Ricky-WangProf/Sudoku/blob/master/Capture.JPG)
+   
    
