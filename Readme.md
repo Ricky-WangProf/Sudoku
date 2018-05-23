@@ -1,5 +1,5 @@
 #Sudoku project  
-###It can generate different level of sudoku and provide solution to the generated sudoku.  
+#It can generate different level of sudoku and provide solution to the generated sudoku.  
   
 There are four Classes stup for this project:  
   -Display Class   
