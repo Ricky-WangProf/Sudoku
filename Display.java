@@ -17,7 +17,7 @@ import javax.swing.JPanel;
 *
 * Display Class to generate the UI, This class has a nested class called Button, it is used for generating all the button used in the game. (INIT, EASY, MEDIUM, HARD)
 * 
-* CMSC-589 Final Project -- Xuan Wang
+* Xuan Wang
 *
 */
 
