@@ -1,5 +1,5 @@
-#Sudoku project  
-#It can generate different level of sudoku and provide solution to the generated sudoku.  
+# Sudoku project  
+## It can generate different level of sudoku and provide solution to the generated sudoku.  
   
 There are four Classes stup for this project:  
   -Display Class   
@@ -10,3 +10,5 @@ There are four Classes stup for this project:
    -MainMethods Class is the core class of sudoku project. It is used for generate the sudoku and provide solution of sudoku. It includes main algorithm of sudoku.   
   -FinalGUI Class  
    -FinalGUI Class is the main class to display the application.  
+   
+   
