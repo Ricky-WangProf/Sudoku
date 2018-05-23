@@ -7,7 +7,7 @@ import javax.swing.SwingUtilities;
 *
 * Main Class to display
 * 
-* CMSC-589 Final Project -- Xuan Wang
+* Xuan Wang
 *
 */
 
