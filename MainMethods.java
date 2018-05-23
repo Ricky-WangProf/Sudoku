@@ -2,7 +2,7 @@
 *
 * Main Method Class to generate the sudoku
 * 
-* CMSC-589 Final Project -- Xuan Wang
+* Xuan Wang
 *
 */
 
